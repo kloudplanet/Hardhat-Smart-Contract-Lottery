@@ -5,7 +5,7 @@ const networkConfig = {
   },
   31337: {
     name: 'localhost',
-    subscriptionId: '588',
+    subscriptionId: '777', // subscription id from chainlink for rinkby network. you've to get this from chainlink to fund your contract with Link token
     gasLane:
       '0xd89b2bf150e3b9e13446986e571fb9cab24b13cea0a43ea20a6049a85cc807cc', // 30 gwei
     keepersUpdateInterval: '30',
